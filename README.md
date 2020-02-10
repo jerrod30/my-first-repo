@@ -1,31 +1,24 @@
-# This is a large heading
+# JN
 
-##This is a smaller heading
+###Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Brisbane, in the state of California, in the United States of America.
 
--This is
--an unordered
--list
+###Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
+- *alskdjf* by asdl;k
+- *adlkfj* by a;dlkf
+- *sdfkj* by alsdkfj
 
-Here is 'some code' in the middle of a sentence.
+### Food 
 
-'''
-This is 
-a block 
-of code
-'''
+Last night I dreamt about eating in these restaurants:
 
-Here is how you make a [a link](https://www.wikipedia.org/).
+1. Pagliacci in Seattle.
+2. Little Star in San Francisco
+3. Everett and Jones in Oakland
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
 
-nano README.md
-
+The best way to get in touch with me is [on Twitter](https://twitter.com/jerrod30).
